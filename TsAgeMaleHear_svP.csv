@@ -1,0 +1,415 @@
+"","SR","District","AreaCode","TsName_Census","TsCode_MIMU","TsName_MIMU","Ts","y6","y7","y8","y9","y10","PriAges"
+"1","Kachin","Myitkyina","AREA # 010151","Hsinbo(ST)","MMR001001","Myitkyina","Hsinbo(ST)",0,0,0,1,0,1
+"2","Kachin","Myitkyina","AREA # 010101","Myitkyina","MMR001001","Myitkyina","Myitkyina",6,2,0,3,5,16
+"3","Kachin","Myitkyina","AREA # 010152","Hsadone(ST)","MMR001002","Waingmaw","Hsadone(ST)",0,0,0,0,0,0
+"4","Kachin","Myitkyina","AREA # 010153","Kanpaikti(ST)","MMR001002","Waingmaw","Kanpaikti(ST)",0,0,0,0,0,0
+"5","Kachin","Myitkyina","AREA # 010102","Waingmaw","MMR001002","Waingmaw","Waingmaw",3,0,4,2,1,10
+"6","Kachin","Myitkyina","AREA # 010103","Ingyanyan","MMR001003","Injangyang","Ingyanyan",0,0,0,0,0,0
+"7","Kachin","Myitkyina","AREA # 010154","Shinbwayyan(ST)","MMR001004","Tanai","Shinbwayyan(ST)",0,0,0,0,0,0
+"8","Kachin","Myitkyina","AREA # 010104","Tanaing","MMR001004","Tanai","Tanaing",0,1,1,0,1,3
+"9","Kachin","Myitkyina","AREA # 010105","Chiphwe","MMR001005","Chipwi","Chiphwe",0,0,0,0,1,1
+"10","Kachin","Myitkyina","AREA # 010155","Panwa(ST)","MMR001005","Chipwi","Panwa(ST)",0,0,0,0,0,0
+"11","Kachin","Myitkyina","AREA # 010106","Hsotlaw","MMR001006","Tsawlaw","Hsotlaw",0,0,1,1,1,3
+"12","Kachin","Mohnyin","AREA # 010251","Hopin(ST)","MMR001007","Mohnyin","Hopin(ST)",0,0,1,1,1,3
+"13","Kachin","Mohnyin","AREA # 010201","Mohnyin","MMR001007","Mohnyin","Mohnyin",0,0,1,1,0,2
+"14","Kachin","Mohnyin","AREA # 010202","Mogaung","MMR001008","Mogaung","Mogaung",1,0,2,2,1,6
+"15","Kachin","Mohnyin","AREA # 010203","Phakant","MMR001009","Hpakant","Phakant",0,2,0,1,1,4
+"16","Kachin","Mohnyin","AREA # 010252","Kamine(ST)","MMR001009","Hpakant","Kamine(ST)",0,0,0,1,0,1
+"17","Kachin","Bhamo","AREA # 010301","Bhamo","MMR001010","Bhamo","Bhamo",2,0,2,1,1,6
+"18","Kachin","Bhamo","AREA # 010351","Myohla(ST)","MMR001011","Shwegu","Total",NA,NA,NA,NA,NA,0
+"19","Kachin","Bhamo","AREA # 010302","Shwegu","MMR001011","Shwegu","Shwegu",1,0,0,0,0,1
+"20","Kachin","Bhamo","AREA # 010352","Lwe`ge`(ST)","MMR001012","Momauk","Lwe`ge`(ST)",0,0,0,0,0,0
+"21","Kachin","Bhamo","AREA # 010353","Dotphoneyan(ST)","MMR001012","Momauk","Dotphoneyan(ST)",0,0,0,0,0,0
+"22","Kachin","Bhamo","AREA # 010303","Momauk","MMR001012","Momauk","Momauk",0,1,0,0,1,2
+"23","Kachin","Bhamo","AREA # 010304","Mansi","MMR001013","Mansi","Mansi",1,0,0,1,3,5
+"24","Kachin","Putao","AREA # 010401","Putao","MMR001014","Puta-O","Putao",0,2,1,3,2,8
+"25","Kachin","Putao","AREA # 010402","Sumprabum","MMR001015","Sumprabum","Sumprabum",0,0,0,0,0,0
+"26","Kachin","Putao","AREA # 010403","Machanbaw","MMR001016","Machanbaw","Machanbaw",0,0,0,0,1,1
+"27","Kachin","Putao","AREA # 010451","Pannandin(ST)","MMR001017","Nawngmun","Pannandin(ST)",0,0,0,0,0,0
+"28","Kachin","Putao","AREA # 010405","Naungmoon","MMR001017","Nawngmun","Naungmoon",0,0,0,0,0,0
+"29","Kachin","Putao","AREA # 010404","Khaunglanphoo","MMR001018","Khaunglanhpu","Khaunglanphoo",0,0,0,0,0,0
+"30","Kayah","Loikaw","AREA # 020101","Loikaw","MMR002001","Loikaw","Loikaw",0,1,0,3,0,4
+"31","Kayah","Loikaw","AREA # 020102","Dimawso","MMR002002","Demoso","Dimawso",2,1,0,0,4,7
+"32","Kayah","Loikaw","AREA # 020103","Phruso","MMR002003","Hpruso","Phruso",0,0,0,0,1,1
+"33","Kayah","Loikaw","AREA # 020104","Shardaw","MMR002004","Shadaw","Shardaw",1,0,0,0,0,1
+"34","Kayah","Bawlakhe","AREA # 020201","Bawlakhe","MMR002005","Bawlake","Bawlakhe",0,0,0,0,0,0
+"35","Kayah","Bawlakhe","AREA # 020251","Ywathit(ST)","MMR002005","Bawlake","Ywathit(ST)",0,0,0,0,0,0
+"36","Kayah","Bawlakhe","AREA # 020202","Parsaung","MMR002006","Hpasawng","Parsaung",0,0,0,0,0,0
+"37","Kayah","Bawlakhe","AREA # 020203","Meisi","MMR002007","Mese","Total",NA,NA,NA,NA,NA,0
+"38","Kayin","Hpa-an","AREA # 030101","Hpa-an","MMR003001","Hpa-An","Hpa-an",3,8,3,5,5,24
+"39","Kayin","Hpa-an","AREA # 030151","Paingkyon(ST)","MMR003002","Hlaingbwe","Paingkyon(ST)",0,2,0,0,0,2
+"40","Kayin","Hpa-an","AREA # 030152","Shan Ywathit(ST)","MMR003002","Hlaingbwe","Shan Ywathit(ST)",0,0,0,0,2,2
+"41","Kayin","Hpa-an","AREA # 030102","Hlaingbwe","MMR003002","Hlaingbwe","Hlaingbwe",1,1,4,0,3,9
+"42","Kayin","Pharpon","AREA # 030201","Pharpon","MMR003003","Hpapun","Pharpon",0,0,0,0,0,0
+"43","Kayin","Pharpon","AREA # 030251","Kamamaung(ST}","MMR003003","Hpapun","Kamamaung(ST}",0,0,1,0,0,1
+"44","Kayin","Hpa-an","AREA # 030154","Bawgali(ST)","MMR003004","Thandaunggyi","Bawgali(ST)",0,0,0,0,0,0
+"45","Kayin","Hpa-an","AREA # 030153","Leiktho(ST)","MMR003004","Thandaunggyi","Leiktho(ST)",2,2,3,0,6,13
+"46","Kayin","Hpa-an","AREA # 030103","Thandaunggyi","MMR003004","Thandaunggyi","Thandaunggyi",0,0,1,0,0,1
+"47","Kayin","Myawady","AREA # 030301","Myawady","MMR003005","Myawaddy","Myawady",2,2,1,1,2,8
+"48","Kayin","Myawady","AREA # 030352","Wawlaymyaing(ST)","MMR003005","Myawaddy","Wawlaymyaing(ST)",0,0,0,0,0,0
+"49","Kayin","Myawady","AREA # 030351","Sugali(ST)","MMR003005","Myawaddy","Sugali(ST)",0,0,0,0,0,0
+"50","Kayin","Kawkareik","AREA # 030401","Kawkareik","MMR003006","Kawkareik","Kawkareik",2,2,3,0,4,11
+"51","Kayin","Kawkareik","AREA # 030402","Kyarinseikkyi","MMR003007","Kyainseikgyi","Kyarinseikkyi",2,0,1,0,7,10
+"52","Kayin","Kawkareik","AREA # 030451","Payarthonezu(ST)","MMR003007","Kyainseikgyi","Payarthonezu(ST)",2,5,2,3,3,15
+"53","Kayin","Kawkareik","AREA # 030452","Kyaidon(ST)","MMR003007","Kyainseikgyi","Kyaidon(ST)",2,0,1,1,2,6
+"54","Chin","Falam","AREA # 040251","Rihkhuadal(ST)","MMR004001","Falam","Rihkhuadal(ST)",0,0,0,0,0,0
+"55","Chin","Falam","AREA # 040201","Falam","MMR004001","Falam","Falam",1,1,3,3,3,11
+"56","Chin","Haka","AREA # 040101","HaKa","MMR004002","Hakha","HaKa",0,0,0,2,1,3
+"57","Chin","Haka","AREA # 040102","Thantlang","MMR004003","Thantlang","Thantlang",0,2,1,0,0,3
+"58","Chin","Falam","AREA # 040202","Tedim","MMR004004","Tedim","Tedim",1,2,1,2,0,6
+"59","Chin","Falam","AREA # 040252","Cikha(ST)","MMR004005","Tonzang","Cikha(ST)",0,1,0,0,0,1
+"60","Chin","Falam","AREA # 040203","Tonzaung","MMR004005","Tonzang","Tonzaung",0,2,0,0,2,4
+"61","Chin","Mindat","AREA # 040301","Mindat","MMR004006","Mindat","Mindat",1,0,2,2,0,5
+"62","Chin","Mindat","AREA # 040351","Reazu(ST)","MMR004007","Matupi","Reazu(ST)",0,3,2,2,0,7
+"63","Chin","Mindat","AREA # 040302","Matupi","MMR004007","Matupi","Matupi",1,1,0,0,1,3
+"64","Chin","Mindat","AREA # 040303","Kanpalet","MMR004008","Kanpetlet","Kanpalet",2,1,1,2,1,7
+"65","Chin","Mindat","AREA # 040304","Paletwat","MMR004009","Paletwa","Paletwat",3,4,2,0,2,11
+"66","Chin","Mindat","AREA # 040352","Sami(ST)","MMR004009","Paletwa","Sami(ST)",0,1,0,0,1,2
+"67","Sagaing","Sagaing","AREA # 050101","Sagaing","MMR005001","Sagaing","Sagaing",1,3,2,4,1,11
+"68","Sagaing","Sagaing","AREA # 050102","Myinmu","MMR005002","Myinmu","Myinmu",0,0,0,0,1,1
+"69","Sagaing","Sagaing","AREA # 050103","Myaung","MMR005003","Myaung","Myaung",1,1,1,0,1,4
+"70","Sagaing","Shwebo","AREA # 050201","Shwebo","MMR005004","Shwebo","Shwebo",1,1,0,1,0,3
+"71","Sagaing","Shwebo","AREA # 050251","Kyaukmyaung(ST)","MMR005004","Shwebo","Kyaukmyaung(ST)",0,0,1,0,0,1
+"72","Sagaing","Shwebo","AREA # 050202","Khin U","MMR005005","Khin-U","Khin U",0,1,0,0,2,3
+"73","Sagaing","Shwebo","AREA # 050203","Wetlet","MMR005006","Wetlet","Wetlet",1,0,2,1,1,5
+"74","Sagaing","Shwebo","AREA # 050204","Kambalu","MMR005007","Kanbalu","Kambalu",2,2,0,3,2,9
+"75","Sagaing","Shwebo","AREA # 050205","Kyunhlau","MMR005008","Kyunhla","Kyunhlau",2,2,0,0,0,4
+"76","Sagaing","Shwebo","AREA # 050206","Ye U","MMR005009","Ye-U","Ye U",0,1,1,1,1,4
+"77","Sagaing","Shwebo","AREA # 050207","Depayin","MMR005010","Tabayin","Depayin",0,2,0,3,1,6
+"78","Sagaing","Shwebo","AREA # 050208","Tasei","MMR005011","Taze","Tasei",2,2,1,1,2,8
+"79","Sagaing","Monywa","AREA # 050301","Monywa","MMR005012","Monywa","Monywa",3,2,4,4,0,13
+"80","Sagaing","Monywa","AREA # 050302","Butalin","MMR005013","Budalin","Butalin",1,0,3,1,0,5
+"81","Sagaing","Monywa","AREA # 050303","Ayartaw","MMR005014","Ayadaw","Ayartaw",3,3,1,1,0,8
+"82","Sagaing","Monywa","AREA # 050304","Chaung Oo","MMR005015","Chaung-U","Chaung Oo",0,0,0,0,0,0
+"83","Sagaing","Yinmarpin","AREA # 050901","Yinmarpin","MMR005016","Yinmarbin","Yinmarpin",1,3,0,1,2,7
+"84","Sagaing","Yinmarpin","AREA # 050904","Kani","MMR005017","Kani","Kani",1,2,4,2,0,9
+"85","Sagaing","Yinmarpin","AREA # 050902","Salingyi","MMR005018","Salingyi","Salingyi",0,2,0,1,1,4
+"86","Sagaing","Yinmarpin","AREA # 050903","Palae","MMR005019","Pale","Palae",2,0,1,0,1,4
+"87","Sagaing","Katha","AREA # 050401","Katha","MMR005020","Katha","Katha",1,0,2,1,1,5
+"88","Sagaing","Katha","AREA # 050402","Indaw","MMR005021","Indaw","Indaw",0,2,2,0,1,5
+"89","Sagaing","Katha","AREA # 050403","Tigyaing","MMR005022","Tigyaing","Tigyaing",1,0,2,1,0,4
+"90","Sagaing","Katha","AREA # 050404","Banmauk","MMR005023","Banmauk","Banmauk",0,0,1,1,1,3
+"91","Sagaing","Katha","AREA # 050405","Kawlin","MMR005024","Kawlin","Kawlin",1,0,1,2,0,4
+"92","Sagaing","Katha","AREA # 050406","Wuntho","MMR005025","Wuntho","Wuntho",1,2,0,0,0,3
+"93","Sagaing","Katha","AREA # 050407","Pinlebu","MMR005026","Pinlebu","Pinlebu",0,0,2,0,2,4
+"94","Sagaing","Kalay","AREA # 050501","Kalay","MMR005027","Kale","Kalay",5,3,3,4,4,19
+"95","Sagaing","Kalay","AREA # 050502","Kalewa","MMR005028","Kalewa","Kalewa",0,0,0,2,0,2
+"96","Sagaing","Kalay","AREA # 050503","Mingin","MMR005029","Mingin","Mingin",2,1,0,0,0,3
+"97","Sagaing","Tamu","AREA # 050601","Tamu","MMR005030","Tamu","Tamu",0,0,1,0,2,3
+"98","Sagaing","Tamu","AREA # 050651","Myothit(ST)","MMR005030","Tamu","Myothit(ST)",0,0,0,0,0,0
+"99","Sagaing","Tamu","AREA # 050652","Khampat(ST)","MMR005030","Tamu","Khampat(ST)",0,0,0,1,1,2
+"100","Sagaing","Mawlaik","AREA # 050701","Mawlaik","MMR005031","Mawlaik","Mawlaik",0,0,0,0,1,1
+"101","Sagaing","Mawlaik","AREA # 050702","Phaungpyin","MMR005032","Paungbyin","Phaungpyin",1,0,1,1,1,4
+"102","Sagaing","Hkamti","AREA # 050801","Hkamti","MMR005033","Hkamti","Hkamti",0,2,0,1,1,4
+"103","Sagaing","Hkamti","AREA # 050802","Homalin","MMR005034","Homalin","Homalin",2,1,2,1,5,11
+"104","Sagaing","Hkamti","AREA # 050803","Leshi","MMR005035","Lay Shi","Leshi",0,1,1,0,0,2
+"105","Sagaing","Hkamti","AREA # 050851","Mobaingluk(ST)","MMR005035","Lay Shi","Total",NA,NA,NA,NA,NA,0
+"106","Sagaing","Hkamti","AREA # 050852","Sonemara(ST)","MMR005035","Lay Shi","Sonemara(ST)",0,0,0,2,0,2
+"107","Sagaing","Hkamti","AREA # 050804","Lahe","MMR005036","Lahe","Lahe",0,0,0,0,1,1
+"108","Sagaing","Hkamti","AREA # 050853","Htanparkway(ST)","MMR005036","Lahe","Htanparkway(ST)",0,0,0,0,0,0
+"109","Sagaing","Hkamti","AREA # 050805","Nanyun","MMR005037","Nanyun","Nanyun",0,0,0,0,0,0
+"110","Sagaing","Hkamti","AREA # 050854","Pansaung(ST)","MMR005037","Nanyun","Pansaung(ST)",0,1,0,0,1,2
+"111","Sagaing","Hkamti","AREA # 050855","Donhee(ST)","MMR005037","Nanyun","Donhee(ST)",0,0,0,0,0,0
+"112","Tanintharyi","Dawei","AREA # 060151","Myitta(ST)","MMR006001","Dawei","Myitta(ST)",2,0,0,0,1,3
+"113","Tanintharyi","Dawei","AREA # 060101","Dawei","MMR006001","Dawei","Dawei",1,2,1,1,0,5
+"114","Tanintharyi","Dawei","AREA # 060102","Lounglon","MMR006002","Launglon","Lounglon",2,3,1,0,2,8
+"115","Tanintharyi","Dawei","AREA # 060103","Thayetchaung","MMR006003","Thayetchaung","Thayetchaung",4,5,0,4,1,14
+"116","Tanintharyi","Dawei","AREA # 060104","Yebyu","MMR006004","Yebyu","Yebyu",0,1,0,0,2,3
+"117","Tanintharyi","Dawei","AREA # 060152","Kaleinaung(ST)","MMR006004","Yebyu","Kaleinaung(ST)",0,0,1,0,0,1
+"118","Tanintharyi","Myeik","AREA # 060201","Myeik","MMR006005","Myeik","Myeik",5,2,3,4,1,15
+"119","Tanintharyi","Myeik","AREA # 060202","Kyunsu","MMR006006","Kyunsu","Kyunsu",1,3,6,3,2,15
+"120","Tanintharyi","Myeik","AREA # 060251","Palauk(ST)","MMR006007","Palaw","Palauk(ST)",2,0,2,2,0,6
+"121","Tanintharyi","Myeik","AREA # 060203","Palaw","MMR006007","Palaw","Palaw",0,5,2,3,2,12
+"122","Tanintharyi","Myeik","AREA # 060204","Tanintharyi","MMR006008","Tanintharyi","Tanintharyi",4,6,2,4,5,21
+"123","Tanintharyi","Kawthoung","AREA # 060301","Kawthoung","MMR006009","Kawthoung","Kawthoung",1,0,0,1,2,4
+"124","Tanintharyi","Kawthoung","AREA # 060351","Khamaukgyi","MMR006009","Kawthoung","Khamaukgyi",0,0,0,0,0,0
+"125","Tanintharyi","Kawthoung","AREA # 060302","Bokepyin","MMR006010","Bokpyin","Bokepyin",0,2,1,0,0,3
+"126","Tanintharyi","Kawthoung","AREA # 060353","Karathuri(ST)","MMR006010","Bokpyin","Karathuri(ST)",0,0,1,0,1,2
+"127","Tanintharyi","Kawthoung","AREA # 060352","Pyigyimandaing","MMR006010","Bokpyin","Pyigyimandaing",1,0,0,0,0,1
+"128","Bago","Bago","AREA # 070101","Bago","MMR007001","Bago","Bago",2,2,5,1,3,13
+"129","Bago","Bago","AREA # 070102","Tanatpin","MMR007002","Thanatpin","Tanatpin",2,0,1,2,2,7
+"130","Bago","Bago","AREA # 070103","Kawa","MMR007003","Kawa","Kawa",3,0,3,2,1,9
+"131","Bago","Bago","AREA # 070104","Waw","MMR007004","Waw","Waw",2,4,1,4,3,14
+"132","Bago","Bago","AREA # 070105","Nyaunglebin","MMR007005","Nyaunglebin","Nyaunglebin",2,1,1,0,1,5
+"133","Bago","Bago","AREA # 070106","Kyauktaga","MMR007006","Kyauktaga","Kyauktaga",0,2,1,2,0,5
+"134","Bago","Bago","AREA # 070107","Daik U","MMR007007","Daik-U","Daik U",0,0,3,2,2,7
+"135","Bago","Bago","AREA # 070108","Shwegyin","MMR007008","Shwegyin","Shwegyin",1,2,2,0,1,6
+"136","Bago","Toungoo","AREA # 070201","Toungoo","MMR007009","Taungoo","Toungoo",3,0,3,4,0,10
+"137","Bago","Toungoo","AREA # 070202","Yaedashe","MMR007010","Yedashe","Yaedashe",4,2,1,3,3,13
+"138","Bago","Toungoo","AREA # 070203","Kyaukkyi","MMR007011","Kyaukkyi","Kyaukkyi",4,2,1,1,0,8
+"139","Bago","Toungoo","AREA # 070204","Pyu","MMR007012","Phyu","Pyu",2,2,3,2,1,10
+"140","Bago","Toungoo","AREA # 070205","Oatwin","MMR007013","Oktwin","Oatwin",3,2,3,6,2,16
+"141","Bago","Toungoo","AREA # 070206","Htantapin","MMR007014","Htantabin","Htantapin",1,2,1,4,3,11
+"142","Bago","Pyay","AREA # 070301","Pyay","MMR008001","Pyay","Pyay",2,2,1,3,1,9
+"143","Bago","Pyay","AREA # 070302","Paukkhaung","MMR008002","Paukkhaung","Paukkhaung",0,0,4,0,2,6
+"144","Bago","Pyay","AREA # 070303","Padaung","MMR008003","Padaung","Padaung",1,2,0,2,0,5
+"145","Bago","Pyay","AREA # 070304","Paunde","MMR008004","Paungde","Paunde",2,1,0,1,1,5
+"146","Bago","Pyay","AREA # 070305","Thegon","MMR008005","Thegon","Thegon",2,1,3,3,0,9
+"147","Bago","Pyay","AREA # 070306","Shwedaung","MMR008006","Shwedaung","Shwedaung",0,1,1,1,0,3
+"148","Bago","Tharyarwaddy","AREA # 070401","Tharyarwaddy","MMR008007","Thayarwady","Tharyarwaddy",0,1,2,0,0,3
+"149","Bago","Tharyarwaddy","AREA # 070402","Letpadan","MMR008008","Letpadan","Letpadan",0,1,0,0,3,4
+"150","Bago","Tharyarwaddy","AREA # 070403","Minhla","MMR008009","Minhla","Minhla",2,0,0,0,1,3
+"151","Bago","Tharyarwaddy","AREA # 070404","Okpo","MMR008010","Okpho","Okpo",1,1,4,1,2,9
+"152","Bago","Tharyarwaddy","AREA # 070405","Zigon","MMR008011","Zigon","Zigon",2,1,0,0,0,3
+"153","Bago","Tharyarwaddy","AREA # 070406","Nattalin","MMR008012","Nattalin","Nattalin",0,0,1,1,1,3
+"154","Bago","Tharyarwaddy","AREA # 070407","Monyo","MMR008013","Monyo","Monyo",1,1,0,1,0,3
+"155","Bago","Tharyarwaddy","AREA # 070408","Gyobingauk","MMR008014","Gyobingauk","Gyobingauk",1,1,0,4,2,8
+"156","Magway","Magway","AREA # 080101","Magway","MMR009001","Magway","Magway",2,5,1,1,1,10
+"157","Magway","Magway","AREA # 080102","Yenangyoung","MMR009002","Yenangyaung","Yenangyoung",0,0,0,1,3,4
+"158","Magway","Magway","AREA # 080103","Chauk","MMR009003","Chauk","Chauk",3,2,1,2,1,9
+"159","Magway","Magway","AREA # 080104","Taungdwingyi","MMR009004","Taungdwingyi","Taungdwingyi",1,1,2,4,4,12
+"160","Magway","Magway","AREA # 080105","Myothit","MMR009005","Myothit","Myothit",1,1,2,2,0,6
+"161","Magway","Magway","AREA # 080106","Natmauk","MMR009006","Natmauk","Natmauk",1,1,1,3,3,9
+"162","Magway","Minbu","AREA # 080201","Minbu","MMR009007","Minbu","Minbu",1,2,2,0,1,6
+"163","Magway","Minbu","AREA # 080202","Pwint Phyu","MMR009008","Pwintbyu","Pwint Phyu",3,1,3,1,4,12
+"164","Magway","Minbu","AREA # 080203","Ngape","MMR009009","Ngape","Ngape",1,2,0,1,0,4
+"165","Magway","Minbu","AREA # 080204","Salin","MMR009010","Salin","Salin",1,1,0,1,1,4
+"166","Magway","Minbu","AREA # 080205","Saytottara","MMR009011","Sidoktaya","Saytottara",0,0,0,0,0,0
+"167","Magway","Thayet","AREA # 080301","Thayet","MMR009012","Thayet","Thayet",1,2,1,0,1,5
+"168","Magway","Thayet","AREA # 080302","Minhla","MMR009013","Minhla","Minhla",2,1,3,0,1,7
+"169","Magway","Thayet","AREA # 080303","Mindon","MMR009014","Mindon","Mindon",0,1,1,1,2,5
+"170","Magway","Thayet","AREA # 080304","Kamma","MMR009015","Kamma","Kamma",0,1,1,0,0,2
+"171","Magway","Thayet","AREA # 080305","Aunglan","MMR009016","Aunglan","Aunglan",2,2,1,1,1,7
+"172","Magway","Thayet","AREA # 080306","Sinpaungwe`","MMR009017","Sinbaungwe","Sinpaungwe`",1,2,2,1,0,6
+"173","Magway","Pakokku","AREA # 080401","Pakokku","MMR009018","Pakokku","Pakokku",2,3,2,2,2,11
+"174","Magway","Pakokku","AREA # 080402","Yesagyo","MMR009019","Yesagyo","Yesagyo",1,1,1,2,0,5
+"175","Magway","Pakokku","AREA # 080403","Myaing","MMR009020","Myaing","Myaing",1,3,1,1,2,8
+"176","Magway","Pakokku","AREA # 080404","Pauk","MMR009021","Pauk","Pauk",4,3,2,3,3,15
+"177","Magway","Pakokku","AREA # 080405","Seikphyu","MMR009022","Seikphyu","Seikphyu",0,0,1,0,0,1
+"178","Magway","Gangaw","AREA # 080501","Gangaw","MMR009023","Gangaw","Gangaw",1,4,3,0,3,11
+"179","Magway","Gangaw","AREA # 080502","Htilin","MMR009024","Tilin","Htilin",0,0,0,0,0,0
+"180","Magway","Gangaw","AREA # 080503","Saw","MMR009025","Saw","Saw",0,1,0,0,1,2
+"181","Magway","Gangaw","AREA # 080551","Kyaukhtu(ST)","MMR009025","Saw","Kyaukhtu(ST)",1,1,0,0,0,2
+"182","Mandalay","Mandalay","AREA # 090101","Aungmyetharzan","MMR010001","Aungmyaythazan","Aungmyetharzan",1,1,0,1,1,4
+"183","Mandalay","Mandalay","AREA # 090102","Chanayeharzan","MMR010002","Chanayethazan","Chanayeharzan",1,1,0,1,1,4
+"184","Mandalay","Mandalay","AREA # 090103","Mahaaungmye","MMR010003","Mahaaungmyay","Mahaaungmye",1,0,0,2,0,3
+"185","Mandalay","Mandalay","AREA # 090104","Chanmyatharzi","MMR010004","Chanmyathazi","Chanmyatharzi",2,2,0,1,2,7
+"186","Mandalay","Mandalay","AREA # 090105","Pyigyidagun","MMR010005","Pyigyitagon","Pyigyidagun",1,4,2,1,4,12
+"187","Mandalay","Mandalay","AREA # 090106","Amarapura","MMR010006","Amarapura","Amarapura",1,2,2,1,4,10
+"188","Mandalay","Mandalay","AREA # 090107","Patheingyi","MMR010007","Patheingyi","Patheingyi",1,2,1,0,0,4
+"189","Mandalay","Pyin Oo Lwin","AREA # 090201","Pyin Oo Lwin","MMR010008","Pyinoolwin","Pyin Oo Lwin",0,1,0,1,2,4
+"190","Mandalay","Pyin Oo Lwin","AREA # 090202","Madaya","MMR010009","Madaya","Madaya",3,0,2,3,1,9
+"191","Mandalay","Pyin Oo Lwin","AREA # 090203","Sinku","MMR010010","Singu","Sinku",1,0,0,1,0,2
+"192","Mandalay","Pyin Oo Lwin","AREA # 090204","Mogok","MMR010011","Mogoke","Mogok",1,0,1,2,1,5
+"193","Mandalay","Pyin Oo Lwin","AREA # 090205","Thabeikkyin","MMR010012","Thabeikkyin","Thabeikkyin",0,1,2,1,0,4
+"194","Mandalay","Pyin Oo Lwin","AREA # 090251","Tagaung","MMR010012","Thabeikkyin","Tagaung",0,0,0,0,1,1
+"195","Mandalay","Kyaukse","AREA # 090301","Kyaukse","MMR010013","Kyaukse","Kyaukse",3,1,2,1,0,7
+"196","Mandalay","Kyaukse","AREA # 090302","Singaing","MMR010014","Sintgaing","Singaing",1,0,1,1,0,3
+"197","Mandalay","Kyaukse","AREA # 090303","Myitthar","MMR010015","Myittha","Myitthar",1,1,0,0,0,2
+"198","Mandalay","Kyaukse","AREA # 090304","Tada U","MMR010016","Tada-U","Tada U",2,0,0,0,0,2
+"199","Mandalay","Myingyan","AREA # 090401","Myingyan","MMR010017","Myingyan","Myingyan",1,3,0,1,1,6
+"200","Mandalay","Myingyan","AREA # 090402","Taungtha","MMR010018","Taungtha","Taungtha",1,2,1,1,1,6
+"201","Mandalay","Myingyan","AREA # 090403","Natogyi","MMR010019","Natogyi","Natogyi",0,1,0,1,5,7
+"202","Mandalay","Nyaung U","AREA # 090404","Kyaukpadaung","MMR010020","Kyaukpadaung","Kyaukpadaung",1,1,1,4,3,10
+"203","Mandalay","Myingyan","AREA # 090405","Ngazun","MMR010021","Ngazun","Ngazun",0,2,0,1,0,3
+"204","Mandalay","Nyaung U","AREA # 090501","Nyaung U","MMR010022","Nyaung-U","Nyaung U",2,0,0,2,1,5
+"205","Mandalay","Nyaung U","AREA # 090551","Ngathayauk","MMR010022","Nyaung-U","Ngat",1,0,0,1,2,4
+"206","Mandalay","Yame`thin","AREA # 090601","Yame`thin","MMR010023","Yamethin","Yame`thin",2,1,2,4,0,9
+"207","Mandalay","Yame`thin","AREA # 090602","Pyawbwe","MMR010024","Pyawbwe","Pyawbwe",6,3,2,2,2,15
+"208","Mandalay","Meiktila","AREA # 090701","Meiktila","MMR010028","Meiktila","Meiktila",2,2,1,2,1,8
+"209","Mandalay","Meiktila","AREA # 090702","Mahlaing","MMR010029","Mahlaing","MahlYaing",0,2,0,0,0,2
+"210","Mandalay","Meiktila","AREA # 090703","Thazi","MMR010030","Thazi","Thazi",1,1,0,0,2,4
+"211","Mandalay","Meiktila","AREA # 090704","Wundwin","MMR010031","Wundwin","Wundwin",2,1,4,3,2,12
+"212","Mon","Mawlamyine","AREA # 100101","Mawlamyine","MMR011001","Mawlamyine","Mawlamyine",2,1,3,2,2,10
+"213","Mon","Mawlamyine","AREA # 100102","Kyaikemaraw","MMR011002","Kyaikmaraw","Kyaikemaraw",1,4,2,2,3,12
+"214","Mon","Mawlamyine","AREA # 100103","Chaungzon","MMR011003","Chaungzon","Chaungzon",0,1,0,2,1,4
+"215","Mon","Mawlamyine","AREA # 100104","Thanbyuzayat","MMR011004","Thanbyuzayat","Thanbyuzayat",1,0,2,4,2,9
+"216","Mon","Mawlamyine","AREA # 100105","Mudon","MMR011005","Mudon","Mudon",2,0,3,1,1,7
+"217","Mon","Mawlamyine","AREA # 100106","Ye","MMR011006","Ye","Ye",3,1,3,2,1,10
+"218","Mon","Mawlamyine","AREA # 100152","Khawzar","MMR011006","Ye","Khawzar",0,0,1,0,0,1
+"219","Mon","Mawlamyine","AREA # 100151","Lamine","MMR011006","Ye","Lamine",0,1,2,2,2,7
+"220","Mon","Thaton","AREA # 100201","Thaton","MMR011007","Thaton","Thaton",2,1,3,2,4,12
+"221","Mon","Thaton","AREA # 100202","Paung","MMR011008","Paung","Paung",0,0,2,1,0,3
+"222","Mon","Thaton","AREA # 100203","Kyaikto","MMR011009","Kyaikto","Kyaikto",5,0,4,2,5,16
+"223","Mon","Thaton","AREA # 100204","Bilin","MMR011010","Bilin","Bilin",2,3,1,0,4,10
+"224","Rakhine","Sittway","AREA # 110101","Sittway","MMR012001","Sittwe","Sittway",3,0,1,2,3,9
+"225","Rakhine","Sittway","AREA # 110102","Ponnagyun","MMR012002","Ponnagyun","Ponnagyun",1,0,1,2,2,6
+"226","Rakhine","Myauk U","AREA # 110201","Myauk U","MMR012003","Mrauk-U","Myauk U",2,6,5,6,6,25
+"227","Rakhine","Myauk U","AREA # 110202","Kyauktaw","MMR012004","Kyauktaw","Kyauktaw",2,2,4,0,0,8
+"228","Rakhine","Myauk U","AREA # 110203","Minbya","MMR012005","Minbya","Minbya",2,5,3,3,3,16
+"229","Rakhine","Myauk U","AREA # 110204","Myebon","MMR012006","Myebon","Myebon",1,0,2,2,2,7
+"230","Rakhine","Sittway","AREA # 110103","Pauktaw","MMR012007","Pauktaw","Pauktaw",0,3,3,2,2,10
+"231","Rakhine","Sittway","AREA # 110104","Yethedaung","MMR012008","Rathedaung","Yethedaung",2,2,0,3,1,8
+"232","Rakhine","Maungtaw","AREA # 110351","Taungpyoletwe(ST)","MMR012009","Maungdaw","Taungpyoletwe(ST)",0,0,1,0,0,1
+"233","Rakhine","Maungtaw","AREA # 110301","Maungtaw","MMR012009","Maungdaw","Maungtaw",0,0,0,2,1,3
+"234","Rakhine","Maungtaw","AREA # 110302","Buthidaung","MMR012010","Buthidaung","Buthidaung",1,1,3,3,3,11
+"235","Rakhine","Kyaukpyu","AREA # 110401","Kyaukpyu","MMR012011","Kyaukpyu","Kyaukpyu",1,0,0,2,1,4
+"236","Rakhine","Kyaukpyu","AREA # 110402","Mannaung","MMR012012","Munaung","Mannaung",1,0,1,1,0,3
+"237","Rakhine","Kyaukpyu","AREA # 110403","Yanbye","MMR012013","Ramree","Yanbye",0,0,1,1,0,2
+"238","Rakhine","Kyaukpyu","AREA # 110404","An","MMR012014","Ann","An",2,0,2,0,1,5
+"239","Rakhine","Thandwe","AREA # 110501","Thandwe","MMR012015","Thandwe","Thandwe",0,1,1,3,0,5
+"240","Rakhine","Thandwe","AREA # 110551","Maei(ST)","MMR012016","Toungup","Maei(ST)",1,0,2,1,0,4
+"241","Rakhine","Thandwe","AREA # 110502","Toungup","MMR012016","Toungup","Toungup",1,1,2,3,1,8
+"242","Rakhine","Thandwe","AREA # 110503","Gwa","MMR012017","Gwa","Gwa",0,1,2,0,1,4
+"243","Rakhine","Thandwe","AREA # 110552","Kyeintali(ST)","MMR012017","Gwa","Kyeintali(ST)",0,0,0,1,0,1
+"244","Yangon","North Yangon","AREA # 120101","Insein","MMR013001","Insein","Insein",0,2,1,2,1,6
+"245","Yangon","North Yangon","AREA # 120102","Mingaladon","MMR013002","Mingaladon","Mingaladon",0,2,3,0,2,7
+"246","Yangon","North Yangon","AREA # 120103","Hmawby","MMR013003","Hmawbi","Hmawby",6,0,2,1,4,13
+"247","Yangon","North Yangon","AREA # 120104","Hlegu","MMR013004","Hlegu","Hlegu",0,1,3,2,6,12
+"248","Yangon","North Yangon","AREA # 120105","Taikkyi","MMR013005","Taikkyi","Taikkyi",1,6,3,5,3,18
+"249","Yangon","North Yangon","AREA # 120106","Htantabin","MMR013006","Htantabin","Htantabin",0,1,1,1,3,6
+"250","Yangon","North Yangon","AREA # 120107","Shwepyitha","MMR013007","Shwepyithar","Shwepyitha",4,0,2,3,4,13
+"251","Yangon","North Yangon","AREA # 120108","Hlinethaya","MMR013008","Hlaingtharya","Hlinethaya",4,5,5,6,13,33
+"252","Yangon","East Yangon","AREA # 120201","Thingangyun","MMR013009","Thingangyun","Thingangyun",0,1,1,1,1,4
+"253","Yangon","East Yangon","AREA # 120202","Yankin","MMR013010","Yankin","Yankin",0,0,2,0,0,2
+"254","Yangon","East Yangon","AREA # 120203","South Okkalapa","MMR013011","South Okkalapa","South Okkalapa",0,1,2,1,1,5
+"255","Yangon","East Yangon","AREA # 120204","North Okkalapa","MMR013012","North Okkalapa","North Okkalapa",2,2,0,4,1,9
+"256","Yangon","East Yangon","AREA # 120205","Thakayta","MMR013013","Thaketa","Thakayta",1,3,2,0,2,8
+"257","Yangon","East Yangon","AREA # 120206","Dawbon","MMR013014","Dawbon","Dawbon",1,1,0,0,1,3
+"258","Yangon","East Yangon","AREA # 120207","Tamway","MMR013015","Tamwe","Tamway",2,0,2,1,0,5
+"259","Yangon","East Yangon","AREA # 120208","Pazuntaung","MMR013016","Pazundaung","Pazuntaung",0,0,1,0,1,2
+"260","Yangon","East Yangon","AREA # 120209","Botahtaung","MMR013017","Botahtaung","Botahtaung",0,0,0,0,0,0
+"261","Yangon","East Yangon","AREA # 120210","Dagon Myothit(South)","MMR013018","Dagon Myothit (South)","Dagon Myothit(South)",2,3,3,3,4,15
+"262","Yangon","East Yangon","AREA # 120211","Dagon Myothit(North)","MMR013019","Dagon Myothit (North)","Dagon Myothit(North)",1,0,1,3,1,6
+"263","Yangon","East Yangon","AREA # 120212","Dagon Myothit(East)","MMR013020","Dagon Myothit (East)","Dagon Myothit(East)",1,2,1,4,2,10
+"264","Yangon","East Yangon","AREA # 120213","Dagon Myothit(Seik)","MMR013021","Dagon Myothit (Seikkan)","Dagon Myothit(Seik)",1,1,0,4,1,7
+"265","Yangon","East Yangon","AREA # 120214","Mingala Taungnyunt","MMR013022","Mingalartaungnyunt","Mingala Taungnyunt",2,1,1,1,0,5
+"266","Yangon","South Yangon","AREA # 120301","Thanlyin","MMR013023","Thanlyin","Thanlyin",1,2,1,1,3,8
+"267","Yangon","South Yangon","AREA # 120351","Tada(ST)","MMR013024","Kyauktan","Tada(ST)",0,0,0,0,0,0
+"268","Yangon","South Yangon","AREA # 120302","Kyauktan","MMR013024","Kyauktan","Kyauktan",1,0,2,1,2,6
+"269","Yangon","South Yangon","AREA # 120303","Thongwa","MMR013025","Thongwa","Thongwa",0,0,0,2,1,3
+"270","Yangon","South Yangon","AREA # 120304","Khayan","MMR013026","Kayan","Khayan",0,1,1,1,1,4
+"271","Yangon","South Yangon","AREA # 120305","Twantay","MMR013027","Twantay","Twantay",2,3,7,3,1,16
+"272","Yangon","South Yangon","AREA # 120306","Kawhmu","MMR013028","Kawhmu","Kawhmu",0,3,0,5,4,12
+"273","Yangon","South Yangon","AREA # 120307","Kungyangon","MMR013029","Kungyangon","Kungyangon",0,1,0,7,0,8
+"274","Yangon","South Yangon","AREA # 120308","Dala","MMR013030","Dala","Dala",0,1,5,2,0,8
+"275","Yangon","South Yangon","AREA # 120309","Seikkyi/Khanaungto","MMR013031","Seikgyikanaungto","Seikkyi/Khanaungto",0,0,0,1,1,2
+"276","Yangon","South Yangon","AREA # 120310","Cocogyun","MMR013032","Cocokyun","Total",NA,NA,NA,NA,NA,0
+"277","Yangon","West Yangon","AREA # 120401","Kyauktada","MMR013033","Kyauktada","Kyauktada",0,0,0,0,1,1
+"278","Yangon","West Yangon","AREA # 120402","Pabedan","MMR013034","Pabedan","Pabedan",0,0,0,1,0,1
+"279","Yangon","West Yangon","AREA # 120403","Lanmadaw","MMR013035","Lanmadaw","Lanmadaw",0,0,1,0,0,1
+"280","Yangon","West Yangon","AREA # 120404","Latha","MMR013036","Latha","Latha",0,0,0,0,0,0
+"281","Yangon","West Yangon","AREA # 120405","Ahlon","MMR013037","Ahlone","Ahlon",0,0,0,1,1,2
+"282","Yangon","West Yangon","AREA # 120406","Kyimyindine","MMR013038","Kyeemyindaing","Kyimyindine",0,0,0,1,1,2
+"283","Yangon","West Yangon","AREA # 120407","Sangyoung","MMR013039","Sanchaung","Sangyoung",0,0,0,0,0,0
+"284","Yangon","West Yangon","AREA # 120408","Hline","MMR013040","Hlaing","Hline",0,1,0,0,0,1
+"285","Yangon","West Yangon","AREA # 120409","Kamayut","MMR013041","Kamaryut","Kamayut",0,0,0,0,0,0
+"286","Yangon","West Yangon","AREA # 120410","Mayangon","MMR013042","Mayangone","Mayangon",1,0,0,1,2,4
+"287","Yangon","West Yangon","AREA # 120411","Dagon","MMR013043","Dagon","Dagon",0,0,0,0,0,0
+"288","Yangon","West Yangon","AREA # 120412","Bahan","MMR013044","Bahan","Bahan",0,1,0,0,0,1
+"289","Yangon","West Yangon","AREA # 120413","Seikkan","MMR013045","Seikkan","Seikkan",0,0,0,0,0,0
+"290","Shan","Taunggyi","AREA # 130151","Kyauktalongyi(ST)","MMR014001","Taunggyi","Kyauktalongyi(ST)",0,1,1,0,0,2
+"291","Shan","Taunggyi","AREA # 130101","Taunggyi","MMR014001","Taunggyi","Taunggyi",1,3,2,5,1,12
+"292","Shan","Taunggyi","AREA # 130102","Nyaungshwe","MMR014002","Nyaungshwe","Nyaungshwe",0,3,2,2,0,7
+"293","Shan","Taunggyi","AREA # 130103","Hopon","MMR014003","Hopong","Hopon",2,1,1,0,2,6
+"294","Shan","Taunggyi","AREA # 130104","Hsihseng","MMR014004","Hsihseng","Hsihseng",0,2,0,1,1,4
+"295","Shan","Taunggyi","AREA # 130105","Kalaw","MMR014005","Kalaw","Kalaw",1,3,0,0,1,5
+"296","Shan","Taunggyi","AREA # 130106","Pindaya","MMR014006","Pindaya","Pindaya",0,2,2,1,1,6
+"297","Shan","Taunggyi","AREA # 130107","Ywarngan","MMR014007","Ywangan","Ywarngan",5,1,1,1,0,8
+"298","Shan","Taunggyi","AREA # 130152","Indaw(ST)","MMR014008","Lawksawk","Indaw(ST)",1,0,1,0,2,4
+"299","Shan","Taunggyi","AREA # 130108","Yatsauk","MMR014008","Lawksawk","Yatsauk",2,1,0,1,2,6
+"300","Shan","Taunggyi","AREA # 130153","Naungtayar(ST)","MMR014009","Pinlaung","Naungtayar(ST)",2,4,1,0,2,9
+"301","Shan","Taunggyi","AREA # 130109","Pinlaung","MMR014009","Pinlaung","Pinlaung",0,1,1,2,0,4
+"302","Shan","Taunggyi","AREA # 130110","Phekon","MMR014010","Pekon","Phekon",0,4,3,1,2,10
+"303","Shan","Loilin","AREA # 130251","Panglong(ST)","MMR014011","Loilen","Panglong(ST)",0,0,2,0,0,2
+"304","Shan","Loilin","AREA # 130201","Loilem","MMR014011","Loilen","Loilem",0,1,0,1,0,2
+"305","Shan","Loilin","AREA # 130202","Le`char","MMR014012","Laihka","Le`char",1,0,0,0,1,2
+"306","Shan","Loilin","AREA # 130252","Kholan(ST)","MMR014013","Nansang","Kholan(ST)",0,0,1,1,0,2
+"307","Shan","Loilin","AREA # 130203","Nanhsam(South)","MMR014013","Nansang","Nanhsam(South)",0,0,0,0,0,0
+"308","Shan","Loilin","AREA # 130253","Karli(ST)","MMR014014","Kunhing","Karli(ST)",0,0,1,0,0,1
+"309","Shan","Loilin","AREA # 130204","Kunhing","MMR014014","Kunhing","Kunhing",0,0,0,0,0,0
+"310","Shan","Loilin","AREA # 130254","Minenaung(ST)","MMR014015","Kyethi","Minenaung(ST)",0,0,1,0,1,2
+"311","Shan","Loilin","AREA # 130205","Kehsi","MMR014015","Kyethi","Kehsi",0,0,2,0,3,5
+"312","Shan","Loilin","AREA # 130206","Mongkai","MMR014016","Mongkaing","Mongkai",0,2,0,0,1,3
+"313","Shan","Loilin","AREA # 130255","Minesan(Monsan)(ST)","MMR014017","Monghsu","Minesan(Monsan)(ST)",0,0,0,2,0,2
+"314","Shan","Loilin","AREA # 130207","Mineshu","MMR014017","Monghsu","Mineshu",0,1,0,0,1,2
+"315","Shan","Linkhe`","AREA # 130351","Homane(ST)","MMR014018","Langkho","Homane(ST)",0,0,0,0,0,0
+"316","Shan","Linkhe`","AREA # 130301","Linkhe`","MMR014018","Langkho","Linkhe`",0,0,0,0,2,2
+"317","Shan","Linkhe`","AREA # 130302","Mone`","MMR014019","Mongnai","Mone`",1,0,0,1,2,4
+"318","Shan","Linkhe`","AREA # 130352","Kengtaung(ST)","MMR014019","Mongnai","Kengtaung(ST)",0,0,0,0,0,0
+"319","Shan","Linkhe`","AREA # 130303","Maukme`","MMR014020","Mawkmai","Maukme`",2,0,0,0,1,3
+"320","Shan","Linkhe`","AREA # 130304","Minepan","MMR014021","Mongpan","Minepan",0,0,0,0,1,1
+"321","Shan","Lashio","AREA # 130401","Lashio","MMR015001","Lashio","Lashio",1,1,2,0,1,5
+"322","Shan","Lashio","AREA # 130402","Theinni","MMR015002","Hseni","Theinni",0,1,0,0,4,5
+"323","Shan","Lashio","AREA # 130403","Mineye`","MMR015003","Mongyai","Mineye`",0,1,0,0,0,1
+"324","Shan","Lashio","AREA # 130404","Tantyan","MMR015004","Tangyan","Tantyan",0,1,0,0,1,2
+"325","Shan","Makman","AREA # 131051","ManKan(ST)","MMR015005","Pangsang","ManKan(ST)",0,0,0,0,0,0
+"326","Shan","Makman","AREA # 131002","Pan San(Pan Kham)","MMR015005","Pangsang","Pan San(Pan Kham)",1,2,3,0,3,9
+"327","Shan","Makman","AREA # 131003","Naphang","MMR015006","Narphan","Naphang",1,1,1,0,1,4
+"328","Shan","Hopan","AREA # 130903","Panwine","MMR015007","Pangwaun","Panwine",5,4,4,3,5,21
+"329","Shan","Hopan","AREA # 130902","Minemaw","MMR015008","Mongmao","Minemaw",1,1,0,0,0,2
+"330","Shan","Muse","AREA # 130553","Pansai(KyuKute)(ST)","MMR015009","Muse","Pansai(KyuKute)(ST)",0,0,0,0,0,0
+"331","Shan","Muse","AREA # 130501","MuSe","MMR015009","Muse","MuSe",0,1,0,0,1,2
+"332","Shan","Muse","AREA # 130552","Manhero(ST)","MMR015009","Muse","Total",NA,NA,NA,NA,NA,0
+"333","Shan","Muse","AREA # 130551","Monekoe(ST)","MMR015009","Muse","Monekoe(ST)",0,0,0,0,0,0
+"334","Shan","Muse","AREA # 130502","Namkham","MMR015010","Namhkan","Namkham",1,1,0,0,0,2
+"335","Shan","Muse","AREA # 130554","Tamoenye(ST)","MMR015011","Kutkai","Tamoenye(ST)",0,2,0,1,1,4
+"336","Shan","Muse","AREA # 130503","Kukai","MMR015011","Kutkai","Kukai",0,2,0,0,0,2
+"337","Shan","Kyukme","AREA # 130601","Kyukme","MMR015012","Kyaukme","Kyukme",0,2,2,0,0,4
+"338","Shan","Kyukme","AREA # 130651","Minengaw(ST)","MMR015012","Kyaukme","Minengaw(ST)",0,0,0,0,0,0
+"339","Shan","Kyukme","AREA # 130652","Minelon(ST)","MMR015012","Kyaukme","Minelon(ST)",0,0,0,0,0,0
+"340","Shan","Kyukme","AREA # 130602","Naungkhio","MMR015013","Nawnghkio","Naungkhio",1,1,1,1,3,7
+"341","Shan","Kyukme","AREA # 130603","Hsipaw","MMR015014","Hsipaw","Hsipaw",2,1,0,0,3,6
+"342","Shan","Kyukme","AREA # 130604","Namtu","MMR015015","Namtu","Namtu",0,0,0,0,1,1
+"343","Shan","Kyukme","AREA # 130605","Namsan(North)","MMR015016","Namhsan","Namsan(North)",0,3,0,0,1,4
+"344","Shan","Minesat","AREA # 130606","Momeik","MMR015017","Mongmit","Momeik",0,1,0,2,0,3
+"345","Shan","Minesat","AREA # 130607","Mabane","MMR015018","Mabein","Mabane",0,0,0,1,0,1
+"346","Shan","Kyukme","AREA # 130608","Manton","MMR015019","Manton","Manton",3,1,1,1,1,7
+"347","Shan","Lashio","AREA # 130701","Kunlon","MMR015020","Kunlong","Kunlon",0,0,1,0,1,2
+"348","Shan","Hopan","AREA # 130901","Hopan","MMR015021","Hopang","Hopan",1,0,1,0,1,3
+"349","Shan","Hopan","AREA # 130952","Panlon(ST)","MMR015021","Hopang","Panlon(ST)",0,0,0,0,0,0
+"350","Shan","Laukine","AREA # 130851","Chinshwehaw(ST)","MMR015022","Laukkaing","Chinshwehaw(ST)",0,0,0,0,0,0
+"351","Shan","Laukine","AREA # 130801","Laukine","MMR015022","Laukkaing","Laukine",1,1,3,1,1,7
+"352","Shan","Laukine","AREA # 130802","Kongyan","MMR015023","Konkyan","Kongyan",0,0,0,1,0,1
+"353","Shan","Laukine","AREA # 130852","Mawhtike(ST)","MMR015023","Konkyan","Mawhtike(ST)",0,0,1,0,1,2
+"354","Shan","Makman","AREA # 131001","Makman","MMR015024","Matman","Makman",2,1,2,0,0,5
+"355","Shan","Kengtung","AREA # 131101","Kengtung","MMR016001","Kengtung","Kengtung",3,1,3,5,7,19
+"356","Shan","Kengtung","AREA # 131102","Minekat","MMR016002","Mongkhet","Minekat",0,1,1,1,0,3
+"357","Shan","Kengtung","AREA # 131151","Mine Pauk(ST)","MMR016003","Mongyang","Mine Pauk(ST)",0,0,0,0,0,0
+"358","Shan","Kengtung","AREA # 131103","Mineyan","MMR016003","Mongyang","Mineyan",0,1,0,1,0,2
+"359","Shan","Kengtung","AREA # 131104","Minelar","MMR016005","Mongla","Minelar",0,0,1,0,0,1
+"360","Shan","Minephyat","AREA # 131201","Minesat","MMR016006","Monghsat","Minesat",2,3,5,0,0,10
+"361","Shan","Minephyat","AREA # 131251","Minekoke(ST)","MMR016006","Monghsat","Minekoke(ST)",0,0,0,0,0,0
+"362","Shan","Kengtung","AREA # 131202","Minepyin","MMR016007","Mongping","Minepyin",0,0,1,0,0,1
+"363","Shan","Kengtung","AREA # 131252","Tontar(ST)","MMR016007","Mongping","Tontar(ST)",0,1,0,1,2,4
+"364","Shan","Minephyat","AREA # 131253","Ponparkyin(ST)","MMR016008","Mongton","Ponparkyin(ST)",5,1,4,2,2,14
+"365","Shan","Minephyat","AREA # 131203","Minetung","MMR016008","Mongton","Minetung",0,2,0,0,0,2
+"366","Shan","Minephyat","AREA # 131254","Monehta(ST)","MMR016008","Mongton","Monehta(ST)",1,0,0,0,0,1
+"367","Shan","Tachileik","AREA # 131351","Talay(ST)","MMR016009","Tachileik","Talay(ST)",0,0,0,0,1,1
+"368","Shan","Tachileik","AREA # 131301","Tachileik","MMR016009","Tachileik","Tachileik",0,1,1,3,0,5
+"369","Shan","Tachileik","AREA # 131352","Kenglat(ST)","MMR016009","Tachileik","Kenglat(ST)",0,1,0,0,0,1
+"370","Shan","Tachileik","AREA # 131401","Minephyat","MMR016010","Monghpyak","Minephyat",2,1,1,0,0,4
+"371","Shan","Tachileik","AREA # 131451","Mineyu(ST)","MMR016011","Mongyawng","Mineyu(ST)",0,3,0,1,3,7
+"372","Shan","Tachileik","AREA # 131402","Mineyaung","MMR016011","Mongyawng","Mineyaung",0,0,0,0,0,0
+"373","Ayeyawady","Pathein","AREA # 140105","Pathein","MMR017001","Pathein","Pathein",0,5,3,4,2,14
+"374","Ayeyawady","Pathein","AREA # 140154","Ngwehsaung(ST)","MMR017001","Pathein","Ngwehsaung(ST)",0,0,0,0,1,1
+"375","Ayeyawady","Pathein","AREA # 140153","Shwethaungyan(ST)","MMR017001","Pathein","Shwethaungyan(ST)",0,0,0,0,0,0
+"376","Ayeyawady","Pathein","AREA # 140101","Kangyidaunt","MMR017002","Kangyidaunt","Kangyidaunt",3,3,2,4,1,13
+"377","Ayeyawady","Pathein","AREA # 140107","Thapaung","MMR017003","Thabaung","Thapaung",2,1,6,7,2,18
+"378","Ayeyawady","Pathein","AREA # 140152","Hainggyikyun(ST)","MMR017004","Ngapudaw","Hainggyikyun(ST)",4,2,0,1,0,7
+"379","Ayeyawady","Pathein","AREA # 140151","Ngayokaung(ST)","MMR017004","Ngapudaw","Ngayokaung(ST)",1,0,1,0,0,2
+"380","Ayeyawady","Pathein","AREA # 140104","Ngaputaw","MMR017004","Ngapudaw","Ngaputaw",3,1,5,1,2,12
+"381","Ayeyawady","Pathein","AREA # 140103","Kyonpyaw","MMR017005","Kyonpyaw","Kyonpyaw",2,1,3,5,3,14
+"382","Ayeyawady","Pathein","AREA # 140106","Yekyi","MMR017006","Yegyi","Yekyi",2,2,2,0,0,6
+"383","Ayeyawady","Pathein","AREA # 140155","Ngathaingchaung(ST)","MMR017006","Yegyi","Ngathaingchaung(ST)",1,0,2,0,1,4
+"384","Ayeyawady","Pathein","AREA # 140102","Kyaungon","MMR017007","Kyaunggon","Kyaungon",1,1,0,1,1,4
+"385","Ayeyawady","Hinthada","AREA # 140605","Hinthada","MMR017008","Hinthada","Hinthada",2,4,4,9,2,21
+"386","Ayeyawady","Hinthada","AREA # 140602","Zalun","MMR017009","Zalun","Zalun",1,1,3,2,0,7
+"387","Ayeyawady","Hinthada","AREA # 140604","Laymyethna","MMR017010","Lemyethna","Laymyethna",0,1,3,0,1,5
+"388","Ayeyawady","Hinthada","AREA # 140603","Myanaung","MMR017011","Myanaung","Myanaung",1,3,3,1,4,12
+"389","Ayeyawady","Hinthada","AREA # 140601","Kyangin","MMR017012","Kyangin","Kyangin",0,0,0,0,0,0
+"390","Ayeyawady","Hinthada","AREA # 140606","Ingapu","MMR017013","Ingapu","Ingapu",4,4,1,2,2,13
+"391","Ayeyawady","Myaungmya","AREA # 140401","Myaungmya","MMR017014","Myaungmya","Myaungmya",0,4,6,9,7,26
+"392","Ayeyawady","Myaungmya","AREA # 140403","Einme","MMR017015","Einme","Einme",3,1,4,3,3,14
+"393","Ayeyawady","Laputta","AREA # 140551","Pyinsalu(ST)","MMR017016","Labutta","Pyinsalu(ST)",1,2,2,2,0,7
+"394","Ayeyawady","Laputta","AREA # 140502","Labutta","MMR017016","Labutta","Labutta",2,2,4,0,4,12
+"395","Ayeyawady","Myaungmya","AREA # 140402","Wakema","MMR017017","Wakema","Wakema",4,3,11,3,2,23
+"396","Ayeyawady","Laputta","AREA # 140501","Mawlamyinegyun","MMR017018","Mawlamyinegyun","Mawlamyinegyun",6,9,10,13,6,44
+"397","Ayeyawady","Maubin","AREA # 140304","Maubin","MMR017019","Maubin","Maubin",3,3,2,3,0,11
+"398","Ayeyawady","Maubin","AREA # 140303","Pantanaw","MMR017020","Pantanaw","Pantanaw",2,2,5,3,4,16
+"399","Ayeyawady","Maubin","AREA # 140301","Nyaungdon","MMR017021","Nyaungdon","Nyaungdon",5,5,4,2,1,17
+"400","Ayeyawady","Maubin","AREA # 140302","Danubyu","MMR017022","Danubyu","Danubyu",1,3,0,1,1,6
+"401","Ayeyawady","Phyapon","AREA # 140203","Phyapon","MMR017023","Pyapon","Phyapon",3,3,3,5,0,14
+"402","Ayeyawady","Phyapon","AREA # 140251","Ahmar(ST)","MMR017023","Pyapon","Ahmar(ST)",0,4,7,3,4,18
+"403","Ayeyawady","Phyapon","AREA # 140204","Bogale","MMR017024","Bogale","Bogale",3,4,8,9,7,31
+"404","Ayeyawady","Phyapon","AREA # 140201","Kyaiklatt","MMR017025","Kyaiklat","Kyaiklatt",0,5,7,3,0,15
+"405","Ayeyawady","Phyapon","AREA # 140202","Daydaye","MMR017026","Dedaye","Daydaye",0,1,4,15,3,23
+"406","Nay Pyi Taw","Ottara(North)","AREA # 150102","Zeyarthiri","MMR018001","Zay Yar Thi Ri","Zeyarthiri",0,1,1,1,0,3
+"407","Nay Pyi Taw","Dekkhina(South)","AREA # 150203","Zabuthiri","MMR018002","Za Bu Thi Ri","Zabuthiri",0,1,1,0,1,3
+"408","Nay Pyi Taw","Ottara(North)","AREA # 150101","Tatkon","MMR018003","Tatkon","Tatkon",1,2,1,4,2,10
+"409","Nay Pyi Taw","Dekkhina(South)","AREA # 150204","Dekkhinathiri","MMR018004","Det Khi Na Thi Ri","Dekkhinathiri",0,0,0,0,2,2
+"410","Nay Pyi Taw","Ottara(North)","AREA # 150104","Pobbathiri","MMR018005","Poke Ba Thi Ri","Pobbathiri",1,3,2,1,1,8
+"411","Nay Pyi Taw","Dekkhina(South)","AREA # 150201","Pyinmana","MMR018006","Pyinmana","Pyinmana",1,2,1,0,2,6
+"412","Nay Pyi Taw","Dekkhina(South)","AREA # 150202","Lewe","MMR018007","Lewe","Lewe",0,3,2,2,5,12
+"413","Nay Pyi Taw","Ottara(North)","AREA # 150103","Ottarathiri","MMR018008","Oke Ta Ra Thi Ri","Ottarathiri",0,0,0,1,2,3
+"414","","","","","","","Total",397,475,501,513,505,2391
